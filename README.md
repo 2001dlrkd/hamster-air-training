@@ -1,3 +1,3 @@
 # hamster-air-training
 
-stickcheck.py
+# stickcheck.py

@@ -1,6 +1,6 @@
 # hamster-air-training
 
-📺 [YouTube]([https://www.youtube.com/embed/_8inM6kerX8?si=tQJAA-kT03sJxEIw](https://www.youtube.com/shorts/l01oPgW6IZo))
+📺 [YouTube](https://www.youtube.com/shorts/l01oPgW6IZo)
 
 <br/>
 

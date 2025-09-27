@@ -1,6 +1,6 @@
 # hamster-air-training
 
-📺 [YouTube](https://www.youtube.com/shorts/l01oPgW6IZo)
+📺 [YouTube](https://www.youtube.com/shorts/80kVTIyjWbk)
 
 <br/>
 
@@ -33,5 +33,5 @@
 ## 현재 기능 및 업데이트 계획
 - 라디오 마스터 조종기로 터틀을 움직입니다.
 - 터틀을 드론 형상으로 변경 할 수 있도록 하였습니다.
-- 
+- 배경을 추가할 예정입니다. / 스위치를 활용한 시동기능을 추가할 예정입니다. 
 - 
